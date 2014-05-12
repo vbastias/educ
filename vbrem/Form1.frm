@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Form1 
-   Caption         =   "Form1"
+   Caption         =   "Forma 1"
    ClientHeight    =   5475
    ClientLeft      =   120
    ClientTop       =   450
@@ -10,7 +10,7 @@ Begin VB.Form Form1
    ScaleWidth      =   7425
    StartUpPosition =   3  'Windows Default
    Begin VB.CommandButton Command2 
-      Caption         =   "Command2"
+      Caption         =   "Comando 2"
       Height          =   615
       Left            =   2400
       TabIndex        =   3
@@ -18,7 +18,7 @@ Begin VB.Form Form1
       Width           =   3495
    End
    Begin VB.CommandButton Command1 
-      Caption         =   "Command1"
+      Caption         =   "Comando 1"
       Height          =   855
       Left            =   2400
       TabIndex        =   2
@@ -47,3 +47,6 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+Private Sub Command1_Click()
+
+End Sub

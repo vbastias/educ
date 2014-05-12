@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Form2 
-   Caption         =   "Form2"
+   Caption         =   "Forma2"
    ClientHeight    =   6855
    ClientLeft      =   120
    ClientTop       =   450
@@ -10,7 +10,7 @@ Begin VB.Form Form2
    ScaleWidth      =   6825
    StartUpPosition =   3  'Windows Default
    Begin VB.CommandButton Command1 
-      Caption         =   "Command1"
+      Caption         =   "Comando1"
       Height          =   855
       Left            =   1320
       TabIndex        =   3
